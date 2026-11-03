@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+AI_Studio/data/
+*.db
+*.db.bak*
+secrets.dat
+新建*.txt
